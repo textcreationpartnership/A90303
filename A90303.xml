@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vincit qui patitur or Lieutenant Colonel John Lylborne decyphered, in a short answer of Captaine Wendy Oxford to a most notoriously false pamphlet of the said Lylborns intituled Iohn Lylborne revived printed at Bruges in Flanders. With a short letter, which was sent to him in Iuly last to give his satisfaction then, why I printed not what I had then finished for the press, in answer to his scandalous pamphlet printed at Viana in May last. With some allegations against the said Mr. Lylborne which the world knowes to be truth, of his writings, actions, plottings, and contryvings, against the late murthered king, his royall queene, posteritie, nobility spiritual and temporal, ...</title>
+            <author>Oxford, Wendy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90303</idno>
+            <idno type="STC">Wing O846</idno>
+            <idno type="STC">Thomason E211_6</idno>
+            <idno type="STC">ESTC R212593</idno>
+            <idno type="EEBO-CITATION">99871198</idno>
+            <idno type="PROQUEST">99871198</idno>
+            <idno type="VID">157737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E211[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vincit qui patitur or Lieutenant Colonel John Lylborne decyphered, in a short answer of Captaine Wendy Oxford to a most notoriously false pamphlet of the said Lylborns intituled Iohn Lylborne revived printed at Bruges in Flanders. With a short letter, which was sent to him in Iuly last to give his satisfaction then, why I printed not what I had then finished for the press, in answer to his scandalous pamphlet printed at Viana in May last. With some allegations against the said Mr. Lylborne which the world knowes to be truth, of his writings, actions, plottings, and contryvings, against the late murthered king, his royall queene, posteritie, nobility spiritual and temporal, ...</title>
+                  <author>Oxford, Wendy.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed the first of Aprill in the yeare of God 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157737:1" rendition="simple:additions"/>
+            <p>Vincit qui patitur OR LIUTENANT COLONEL JOHN LYLBORNE Decyphered, in a short anſwer of Captaine WENDY OXFORD To a moſt notoriouſly falſe pamphlet of the ſaid <hi>Lylborns</hi> intituled <hi>Iohn Lylborne Revived</hi> printed at Bruges in Flanders.</p>
+            <p>With a short letter, which was ſent to him in <hi>Iuly</hi> laſt to give him ſatisfaction then, why I printed not what I had then finished for the Preſs, in anſwer to his ſcandalous pamphlet printed at <hi>Viana</hi> in May laſt.</p>
+            <q>
+               <bibl>JEREMIE 28. verſ. 15.16.</bibl>
+               <p>Then ſayd the Prophet Jeremiah unto the Prophet Hananiah, Heare now Hananiah, the Lord had not ſent thee, but thou makeſt this people to truſt in a lie.</p>
+               <p>Therefore thus ſayeth the Lord, Beholde, I will caſt thee from off the earth: this yeere thou ſhalt die, becauſe thou haſt ſpoken rebelliouſly againſt the Lord.</p>
+            </q>
+            <p>With ſome allegations againſt the ſaid Mr. Lylborne which the world knowes to be truth, of his writings, actions, plottings, and contryvings, againſt the late murthered King, his Royal Queene, Poſteritie, Nobilitity Spiritual and Temporal, and all others of the learned Orthodox Divines, quite contrary to the advice of <hi>Solomon</hi> Prov. the 29. verſ. 18. <hi>Amos</hi> the 8. Pſalme 19. Saint Mathew the 11. the 10. Corinthians the firſt, the 6. and the 6. Galath. the 6 and the 6. Acts the 10. Heb. 13. and 17. verſ. and in a word contrary to the whole rules of Scripture, ſo that feaw or none (ſaying of His owne wicked and per<g ref="char:EOLhyphen"/>verſe party) will beleeue his reports.</p>
+            <p>Printed the firſt of Aprill in the yeare of God 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157737:2"/>
+            <head>The Preſent anſwer of Cap: WENDY OXFORD To a ſcandalous Paper of Mr. JOHN LYLBORNE</head>
+            <p>I Need not to inſiſt much upon my diſcourſe, all people ſo well know<g ref="char:EOLhyphen"/>ing the nature of the object, to anſwer whom is now my taske in this onely ſheet of paper: more monyes I have not to ſpend ſo much in vaine (notwithſtanding Mr. Lilbornes great reports of Salleryes receiving from England) which is well knowne to the contrary, neither have I ſuch col<g ref="char:EOLhyphen"/>lections, beggings, and continual re<g ref="char:EOLhyphen"/>cruits which Mr. Lilborne weekly reci<g ref="char:EOLhyphen"/>ves from his Brother hood and faction in England, by reaſſon I give not ſuch adviſe in my letters to thoſe of England as he doth weekly, which He takes the impudency to Iuſtifie the ſame in part of his pamphlets, by a litle you may judge of the reſt, He is ſo much an Engliſhman as ever He was, not to have King nor States to doe harme to his Brother rebells and traytors in England, to that end he writs to ſome in England his oppinions concerning ſea and Land ſervice which may fall out croſs to the deſignes of the rebells enemies of Eng<g ref="char:EOLhyphen"/>land. The Proverb often times prooves truth, <hi>That a Standerby ſees better then he that plaies,</hi> to that end he remaines amongſt the Parliaments friends to give aime againſt both our King, and the States of theſe united Provinces, being between both. But had I ſuch ſumes of moneys as he reports, he ſhould have heard un<g ref="char:EOLhyphen"/>doubtedly from me ere this; having had 24. ſheets of Paper ready for the preſs theſe 9. monthes in two volumes, the one Intituled.<lb/>
+               <q>
+                  <hi>The Banished-mans Complaint,</hi> the other <hi>Iohn Lylbornes Portaicture with A Hue and Cry after Him.</hi>
+               </q>
+            </p>
+            <p>Nay had I ſuch ſumes as he reports, I would not have ſuffered my booke in<g ref="char:EOLhyphen"/>tituled.</p>
+            <p>The Proſpective Glaſs for King and ſubjects to have layn Printed 9. monthes in the Printers hands and not ſent them into the World imediatly after their birth, where in Mr. Lylborne is more at larg diſcovered, his cruelty and barba<g ref="char:EOLhyphen"/>riſme laid open to all readers.</p>
+            <p>But why doe I hold thee in the porch (Courteious reader) when the houſe is ſo litle. Therefore welcom to the reſt, and in briefe, who ſo hath, or ſhall pleaſe to read the 8 page of Mr Lilbornes letter directed to Mr D.D. in the united Pro<g ref="char:EOLhyphen"/>vinces, may find the tearme he gives me. of Spy of Cromwells and Scotts, and ſayeth my booke intituled <hi>The unexpected Life,</hi> (given by Lilborne and his faction) and the long <hi>wished for death of the thing called Parliament in England,</hi> is falſe and on purpoſs, to have his throate cutt, ſo that no man muſt write or ſpeake what he hath done for that cauſe. But let me tell Mr Lilborne, that what I write in that booke againſt him, and ten times more then I ſhall here inſert, that thoſe he ter<g ref="char:EOLhyphen"/>mes Cavaliers here, and els where, knowes to be too great a truth, there<g ref="char:EOLhyphen"/>fore the more he goes about to vaile his former, and ſtill vilany, He will but give him ſelfe the lye. For hath not many
+<pb facs="tcp:157737:3"/>told him to his face the ſame; and doth not all know that John Lylborne (when he was but an aprentiſe boy in London) was one of the very firſt (if not the firſt) that ever endeavored to make a ſeparation between the late murthered King and his People: The Dutch alſo can not be ignorant thereof, for, for that very cauſe did he fly in to theſe Lands, and his reſidence was here in Delph, and my printer was his in thoſe dayes, &amp; he made a Burgur here of Delph at the ſame time. O yes you (Mr Lylborne) are very well known to be the inſurecter in chiefe, and him who brought great tumults to white Hall that had not Capt: <hi>Endimion Porter</hi> immediatly with his trayn band, the Nobility and Stout-hearted gentery in Court aſſiſted each other, the ſence murthered King, his Queene and Royal progenie had undoubtedly been then murthered, ſo that you had ſaved the murtherurs at Weſtminſter a great deale of Honor, and coſtly trouble to the 3 Kingdomes: It is likewiſe known to all at home and a broad of your owne nation, that after that inſurrection againſt the King &amp;c. in the rebellious city of London and Southwarke you did rayſe the ſame rable, and (had not the traine bands likewiſe prevented) vio<g ref="char:EOLhyphen"/>lently fell on Lambeth Houſe and have kild his Grace of Canterbury, though ſence butchered by your bretheren. And doth not the three nations ring of you (Mr Lylborne) for cauſſing libells to be throun in his Majeſtyes coach, as he paſt the ſtreets of London, and doe not all know you were one of the firſt Actors in the late bloody warre, and death of the late murthered King, ever poſting betwixt the Divells in the Ar<g ref="char:EOLhyphen"/>my, and the Turks in London, but of this more at large els where; And for the preſſent I reffer the reader to your owne workes (Iack) of 44. bookes by you printed, or at leaſt owned (in your <hi>Appologie</hi>) and ſence: in all of which, if there be not Treaſon, Conſpiricie Falſe Doctrine and Heriſy, this is not truth, eſpecialy by reaſon my memory is freſh with your pampehlet from <hi>Viana</hi> in May laſt, wherein if any pleaſe to view the 12 pag they may find your aſpertions on the preſent King, and your fixe Reſolutions againſt the Scotts King (as you term him) to be irrevocable; and you (Iacke) take preſumtion upon you there to ſet downe the reaſons, and in the ſame page ſay that you will not loſe your party, to ſet his Intereſt on foote; in a word all your pamphlets are com<g ref="char:EOLhyphen"/>poſſed of nought elce but ſeditious names, of Tyrannie and oppreſſion in monarchy, and you cloake all your re<g ref="char:EOLhyphen"/>bellion under honeſt <hi>magna Charta,</hi> which had thoſe valiant old <hi>Britanes</hi> thought it ſhould have beene ſo much abuſed by ſuch evile Spirits as thou art, they would have made a bone-fire of it, although it coſt ſo deare as it did. Now let me further tell thee (reader) veiw but that pamphlet, and this laſt of his at Bruges, and you ſhall ſee, that he labours covertly to diſtroy this Kings intereſt in all States, under covert of the fredome of the people of England, crying it up, which the world knows cannot be with out their King, as well as a King conſiſts in the ſafety of his people, but not a word of a crowne, or King, (except in detraction and deriſſion thereof) in all his workes, O that is contrary to the motions of his Spirit: which now he would fayn vaile over to cheat true hearts out of their underſtandings, and if you pleaſe impartialy to view Mr Lyl<g ref="char:EOLhyphen"/>borns deſignes in the laſt page of his let<g ref="char:EOLhyphen"/>ter to Mr. D D, wherein he confeſſeth, the Dutch may be angry with him &amp;c: (a guilty conſcience needs no accuſſer) but ſayeth Mr. Lylborne there he is no hearty enemy of the Dutch, but a true borne Engliſh-man, and truly if all En<g ref="char:EOLhyphen"/>gliſhmen
+<pb facs="tcp:157737:3"/>really obſerve that onely page of his, they would have ſmal cauſe to thinke well on Jacke Lylborne, for, he ſhews what he would be at, neither for Dutch, King, nor any elce but him<g ref="char:EOLhyphen"/>ſelfe and his crue, for ſaith he therein, that he deſiers with all his heart, an honeſt peace may be concluded, and ſoundly ſetled between the two States, to the rational ſecuring diſtinctly, the rights and Priveledges of each nation with out encroachments of either ſide by ſtripping the great — on both ſides (here in is old Jacke Lylborne revived in ill Language) and Levelling one with an other, (that being his profeſſed game) from their arbitrary and Tyranical power ſayth he, (thers an other chipp of the old blocke) and ſo goes on pro<g ref="char:EOLhyphen"/>teſting that if his ſchattered power and interreſt, could contribute any thing to the accompliſhing of ſuch a peace and a greement, he would heartily venture his Life &amp;c: with more large expreſſions. Now you may immagine the reaſſon hereof, and the good which will ariſe thereon That if a peace &amp;c. the King may ſeeke his fortune, and conſequently all loyal and true hearted Engliſhmen of great eſtates, high birth (and too good breeding) to be kept from their old and rightfull poſſeſſions: but in deed (Jacke) neither Engliſh or Dutch muſt ever looke to ſee peace and quietneſs in the 3 Kingdomes of England &amp;c. nor in deed theſe Netherlands 2 yeares togeather with out the Crowne be ſetled on the rightfull Heire, for it will be a preſſident and high way to diſtruction, of all <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> in the world, and ſet up oppreſſive <hi>Anarchy</hi> in ſteed thereof which the Lord of Hoſtes but no doubt will, open the eyes of all Princes (in Chriſtendome eſpecially) for the prevention thereof, and breake the cords of all ſuch unlawful preſidents: beſides it will be ſuch a moate, in the eyes of the Netherlands, that it will not be ſoon picked out) for all he clawes the Dutch in the ſaid Let<g ref="char:EOLhyphen"/>ter, whoſe wiſdome is too great for his deluſive wayes. View what he writes to his Intelligencer Mr. D D. (whom I doe avow if ſo, to be the Sonn of perdition and not of an honeſt woman) for, the time is yet to come, that ever I thought, or ſpake of the Death of John Lylborne, I have other thinges to talke of on, then ſuch a perverſe diſpoſition; but as I ſayd marke well how he would claw &amp;c: for ſaith he in the laſt lines of that letter, what he would doe, if the Dutch would but give <hi>Oliver</hi> a box on the eare, he would give one on the other in his way, if not, account him a <hi>knave<g ref="char:punc">▪</g>
+               </hi> (many thin<g ref="char:EOLhyphen"/>kes that noe newes, any time his 18 or 20 yeares) but obſerve the box on the eare, would be both to the Engliſh and Dutch, for ſhould they agree, they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt looke to be in warre with all neighbouring na<g ref="char:EOLhyphen"/>tions, taking part with ſuch a people whoſe thirſt for blood, is not to be quenched, untill they be ſerved as.<hi>A<g ref="char:EOLhyphen"/>lexander</hi> was, or the 30 Tyrants of Athens, for that the Treaſury of theſe lands will not onely be exhauſted, but for ever remaine empty enough: Now where as Mr. John falſely calumniateth me againe in the 4 and 5 pag of his booke, by the name <hi>Spy</hi> of the Engliſh and Dutch, and that He routed me from Amſterdam, many at the Hague, Am<g ref="char:EOLhyphen"/>ſterdam and elce where knowes to the contrary, for the Landlord, Landlady, and other lodgers in the Houſe wherein our aboad was there, and Capt<g ref="char:punc">▪</g> Rawlins told Lylborne that to be a cruel Lye to his face (as I am Informed by ſome of them ſelves) for I long before reſolved to depart that Citty, as, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being too deare a place, and not ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>lthfull as where I am, which Citty I deſigned for my a boade, at my ve<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt landing: and where as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wickedly and in deed diabolically <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>erſes mee wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the con<g ref="char:EOLhyphen"/>triving
+<pb facs="tcp:157737:4"/>his murther at Bruges and Am<g ref="char:EOLhyphen"/>ſterdam, I have more largely cleared that poynt elce where, only give me leave, to let you know his bloody conſcience is ſo guilty, that he feares more then or<g ref="char:EOLhyphen"/>dinary, for if I had, had ſuch an intent, and was to have, or had a ſallery, for the contriving his murther, I could have diſpatcht him long ſence, as wee traveld togeather in ſhipps, in our Iourney from England, or as wee lay togeather often times in Amſterdam, in his or my owne chamber: and as for hiering at the firſt coming over, or ſence, any of the Duke of Lorraignes men, or any elce, I neither could then, or can I well yet, either ſpeake, or un<g ref="char:EOLhyphen"/>derſtand the languages of forreigne na<g ref="char:EOLhyphen"/>tions, or had I, or have I yet any ſuch acquaintance in the Lorraignes army, or any ſuch murthering, bloodthirſty, and bloodminded people, as any thoſe he pretends, and as him ſelfe hath, and ſtill is to be feared yet remaines, otherwiſe he could never ſymphatyze ſo much with the diſpoſiſtion of the Devill, the father of all miſchiefe, wherefore at preſent I ſhall onely make this proteſta<g ref="char:EOLhyphen"/>tion, againſt all his particulars and Ge<g ref="char:EOLhyphen"/>neralls; That I deſier all my other ſin<g ref="char:EOLhyphen"/>nes may be forgiven me at the laſt day, ſaving thoſes he charges me with, of murther in a moſt ample way, of him in particular, and many in the general of both Nations, as alſo that deteſtable on of Laſciviouſneſſe, (no Jacke) I am none of your adimantical romancers neither am I one of your faction, that hold it noe ſinne to doe with a ſiſter when the Spirit moves, neither am I ſo cowerdly as you terme it, to plott, or contrive any mans murther, in a baſe ignoble way, eſpecialy yours, at that time, when I had not occaſsion for it, you never deſerving from me any unkindneſs (as to my owne ſelfe) untill your pamphlet from <hi>Viana</hi> came forth, yet I ſcorne to thinke of ſuch heatheniſs practices, or Italian lacivious engagements. Where<g ref="char:EOLhyphen"/>fore John Lylborne on what grounds theſe jealouſes ariſeth I can not conciev of your thus raving, and when you write againe, I pray in your next ſcu<g ref="char:EOLhyphen"/>rilous paper name them outright in your ſuperſcriptious, and alſo in your inward parts of your pamphlets nominate your intelligencers, whoe are not only the blow coales between you and mee but elce where, then I doubt not but it will appeare to the world, thou haſt been as erroneouſly perverſe to mee, as thou haſt been generaly againſt all goodneſs, honeſty and ſound judgement from thy child-hood; nay againſt all people (ſa<g ref="char:EOLhyphen"/>ving of thy owne faction,) againe where as Mr. Lylborne in the 4 and 5th. pages charges me with the name <hi>Spy</hi> on Dutch and Engliſh I leave all to my former bookes of ſatisfaction, Eſpicialie my booke cal'd<lb/>
+               <q>The Hue and Cry, after Iohn Lylborne, Or, O Iacke art thou found.</q>
+            </p>
+            <p>Onely deſiering all Dutch and En<g ref="char:EOLhyphen"/>gliſh, Iriſh and Scotts, to thinke of me as they have hither unto found both my behaviour and inquiſitions in Com<g ref="char:EOLhyphen"/>pany keepings, and ſhall begg of them which knowes me not (but by the pen of ſuch a one, whoe never ſence he could firſt hold it would write any thing elce, but that which portented to ſedition and conſpiracie, againſt publick or private perſons) wherefore I deſier all to caſt their ſerious eyes, and make deepe in<g ref="char:EOLhyphen"/>quiſſitions both of my geſtures, actions, and diſpoſſitions paſt and to come, and then to a proove <hi>ad probatum.</hi> Which I doubt not (if I ſhould be queſtioned in theſe lands, by the falſe ſuggeſtions of Lylborne, that there are many perſons of Honor of the Nations of Dutch, En<g ref="char:EOLhyphen"/>gliſh,
+<pb facs="tcp:157737:4"/>Scotts, Iriſh, and French, whoe would give a character of mee as they haue found, having made deepe ſear<g ref="char:EOLhyphen"/>ches into my waies, for their owne ſatis<g ref="char:EOLhyphen"/>factions, which I forbeare at present, or in future to mention, as not being bound there unto by anſwer to any Scandalous pen (much leſs to thine Jacke, whoe is ſo well knowne cannot touch paper but in letters of blood and maintenance of rebellion, malice, and extreordinary ſelfe conceit; thinking thereby, either to force, or feare thoſe thou writs againſt to be of thy in ſolidi<g ref="char:EOLhyphen"/>ty and factiouſly wicked, and perverſly unparraleld nature.) and where as thou giveſt the terme of whore to one (whoe were ſhe not of ſo neare a relation unto me as ſhee is) I ſhould then ſay more then I ſhall at preſent for that the whole world knowes thee to have written againſt thoſe and cal'd them ſoe in thy pamphletts, whoſe feet ſhee is not wor<g ref="char:EOLhyphen"/>thy to wipe, but ſhe is ſo well known in theſe parts, of her life and converſation, of her diſcent and breeding, that thy pen can not injure her, and for her journeys making into England it is ſo wel known here to the better ſort, that ſhee goes not about any ſuch matter aledged againſt her, or me in that nature, where<g ref="char:EOLhyphen"/>fore when thou writeſt unto me or any body elce, ſhew not the eye of miſun<g ref="char:EOLhyphen"/>derſtanding, and ſacrifice not they great man hood ſo much by thee blazed Iacke, in this pamphlet againſt an innocent creature and on of the weaker veſſells. A las Jacke, I throught thou hadſt not forgotten the rule of ſchooleboys ſoe much: but what ſhall I ſay more to all gentlemen, then what I have alredy at preſent, and to the Jacke Lylborne, more then the copy of the letter under writ<g ref="char:EOLhyphen"/>ten, which I deſire all to read, and judge accordingly. But Jacke, to witnes they falſitie to the King, let all Gentlemen in quier if thou haſt not bought his Pallace of Thibalds which coſt the but ſix thouſ<g ref="char:EOLhyphen"/>ſand pounds, of which thou haſt alredy made before thy comming over, ſeaven thouſſand five hundred pounds of onely the wanſcote, chimney peeces, lead, Glaſs and Irone, and converted the reſt into above a hundred Tenniments.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>A Copy of a Letter ſent to Mr. Lylborne &amp;c.</head>
+                        <opener>
+                           <salute>Liut: Col: Lylborne</salute>
+                        </opener>
+                        <p>By your uncivil pen and haire braned folly you haue cauſed mee (as much as in you lyes) to ſtand charged and guilty of many ungent<g ref="char:EOLhyphen"/>leman like actions, the burthen whereof (was not your pearſſon and faction: ſo well knowen that they Honor more then dishonour by rayling &amp;c. againſt thoſe you write) would be too heavy long to beare, but having the patrocing of Iohn Lylborne, it is not felt at all, which were an other the authour, I might then expreſs a no leſs eaſſy, then I doe now a ſafe iſſue and good ſucceſs in the vindication of my owne innocency, which I deſier thoſes that know us both, and ſuch us know neither of us, but by our lines, that neither my rash<g ref="char:EOLhyphen"/>neſs may plead my innocencie, nor your braſſeneſs my guilt, but
+<pb facs="tcp:157737:5"/>that all true hearted gentlemen would conceive of my defences as they are of them ſelves with out reference to either (as I shall endea<g ref="char:EOLunhyphen"/>vore ſo to preſent them,) and I doubt not but when ever I shal re<g ref="char:EOLhyphen"/>ſolve to goe out of theſe countres, I shall goe as cleerly juſtified, as I am at preſent in the teſtimony of a good conſcience concerning your allegations: and I doubt not with the bleſſing of God, but to pul out thoſe poyſnous arrowes of baſe and unworthy actions which you indeavour to feather in the hearts of Gentlemen of all nations purpoſsly to make me odious in the noſtrils of thoſe heroicke Spi<g ref="char:EOLhyphen"/>rits who hitherto abhorre to heare your name or bookes ſpoken of. S<hi rend="sup">r</hi> you would make hogsheads and whole tunes of ſome one or two cupps of wine, to the end, that ſome petty miſs alledged errors of mine may be ſo intoxicated, that they are put in the elevation of the higheſt and damnable crimes of mankind: but really it hath not been in my genius to diſcerne ſuch monſters in my breaſt, as you by your ſiniſterous informations endeavor to ſtick to heart: but had I the leaſt ſuſpition in my ſelfe of any thing you charge me withall, I would ſpare you further writing, confeſs all, and through the firſt ſtone at my ſelfe, nay paſs ſentence of condemnation alſo. Which if you write more, I shall anſwer more at large. Then <hi>have at you in the name of the Lord,</hi> ſit as faſt as you can, I will diſmount you from your ſaddles of refuges of <hi>Viana</hi> &amp;c. out of theſe Lands: and when I have hunted you out hence, I shall ſend further hue and cryes into thoſe Lands where ever you are reſiding. So reſolves</p>
+                        <closer>
+                           <signed>Your forgiving Enemy upon re<g ref="char:EOLhyphen"/>pentance to God, and <hi>Wendy Oxford</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="postscript">
+               <opener>
+                  <salute>Gentlemen</salute>
+               </opener>
+               <p>This letter made him forſake <hi>Viana</hi> as you ſee and goe to Brugges, to the countreys of his bretherens friend the Spaniard, which no Prince in Chriſten<g ref="char:EOLhyphen"/>dome but refuſeth to correſpond with them and Lylborne, nay the heatheniſh Princes, onely the Spanſh, but it may come in time to his owne pallaces the ſame which hath happened by rebellion in my Land, if ſoe noe pitty by my con<g ref="char:EOLhyphen"/>ſent on him nor his.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
